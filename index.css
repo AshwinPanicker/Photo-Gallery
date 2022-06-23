@@ -1,0 +1,15 @@
+h4 {
+    color: lightskyblue;
+}
+h2 {
+    text-align: center;
+}
+h5 {
+    color: gray;
+    text-align: center;
+}
+button {
+       border-radius:12px;
+       border-color:green;
+       padding:10cx 10cx;
+}
